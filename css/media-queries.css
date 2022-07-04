@@ -1,0 +1,6 @@
+@media (max-width: 800px) {
+    .blogs-news-container {
+        grid-template-columns: auto;
+        grid-template-rows: 3fr;
+    }
+}
